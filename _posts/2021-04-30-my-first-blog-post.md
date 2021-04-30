@@ -1,5 +1,5 @@
 title: "My blog"
-date: 2021-4-30
+date: 2021-04-30
 
 My first Blog Post 
 
